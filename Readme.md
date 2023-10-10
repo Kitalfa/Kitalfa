@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Dorian, and I'm a former chemical technician who<br> is now a web developer. I learned web development <br>on my own and eventually took a professional training <br>course to obtain a recognized diploma. I have solid experience <br>in JavaScript, particularly with the React library.
+My name is Dorian, and I'm a former chemical technician who is now a web developer. I learned web development on my own and eventually took a professional training course to obtain a recognized diploma. I have solid experience in JavaScript, particularly with the React library.
 
 
 ## 🌐 Socials:
