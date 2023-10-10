@@ -15,6 +15,5 @@ My name is Dorian, and I'm a former chemical technician who is now a web develop
 ![](https://github-profile-trophy.vercel.app/?username=Kitalfa&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kitalfa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
